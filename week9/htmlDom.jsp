@@ -9,7 +9,7 @@
     </head>
     <body>
         <section><h2>JSP form</h2>
-            <section><h2>JSP form</h2>
+            <section>
                 <h2>입력 정보</h2>
                 <h2>입력 값 : <%=request.getParameter("id_form")%><br/></h2>
             </section>
